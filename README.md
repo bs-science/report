@@ -1,17 +1,10 @@
-### 물품 현황
-
-| 품명 | 유무 |
-|---|---|
-|  |  |
-
-
 ### 역할
 <!-- "<br>"사이에 자신의 이름 적기 -->
 역할: 실험 진행(2), 바이브 코딩(1) 중복 선택 가능
 
 
 김민수: 실험 진행 <br>
-박재완:  실험 진행<br>
+박재완: 실험 진행<br>
 이정우: 총괄 <br>
 황지후: 실험 진행<br>
 
@@ -31,4 +24,8 @@ mCP용액의 농도:  <br>
 2.  
 3. 
 4. 
-5. 
+
+
+### 보고서 링크(@ai.jne.kr 계정으로 접속)
+
+<a href="https://docs.google.com/document/d/1lSlGq6bdDsRqUdKcO0tM7YVn0ZSGFeOkq6_PTOW7JlA/edit?usp=sharing">보고서 바로가기</a>
